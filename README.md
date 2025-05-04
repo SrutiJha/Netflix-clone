@@ -21,7 +21,7 @@ A responsive, feature-rich clone of the Netflix web app built using **React.js**
 
 | Home Page | Login Page | 
 |-----------|------------|
-| ![Home](./screenshots/home.png) | ![Login](./screenshots/login.png) | 
+| ![Home](./screenshots/Home.png) | ![Login](./screenshots/Login.png) | 
 
 ## 🚀 Getting Started
 
